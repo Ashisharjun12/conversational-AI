@@ -31,7 +31,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ashisharjun12/conversational-AI.git
    cd rag_ai
    ```
 
