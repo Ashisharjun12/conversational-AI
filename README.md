@@ -107,16 +107,7 @@ The system will:
 - **Version Management**: Via `.python-version`
 - **IDE Support**: VS Code configurations included
 
-## 📝 License
 
-[Add your license information here]
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
----
-
-<div align="center">
-Made with ❤️ using RAG Architecture
-</div>
